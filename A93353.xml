@@ -1,0 +1,268 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The cause of the long afflicted, and sore oppressed, sent (in breif) [sic] from Winchester Prison, : being a copy of the Mittymus, whereby Humphrey Smith was again committed (into the place of his former long suffering, in the same streight unsavory prison,) with his answer (which was then sent back) thereunto. : As likewise a short relation from the rest of them called Quakers there. : Printed for the said sufferers.</title>
+            <author>Smith, Humphrey, d. 1663.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93353</idno>
+            <idno type="STC">Wing S4053</idno>
+            <idno type="STC">ESTC R184295</idno>
+            <idno type="EEBO-CITATION">43078143</idno>
+            <idno type="OCLC">ocm 43078143</idno>
+            <idno type="VID">151720</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93353)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151720)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2273:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The cause of the long afflicted, and sore oppressed, sent (in breif) [sic] from Winchester Prison, : being a copy of the Mittymus, whereby Humphrey Smith was again committed (into the place of his former long suffering, in the same streight unsavory prison,) with his answer (which was then sent back) thereunto. : As likewise a short relation from the rest of them called Quakers there. : Printed for the said sufferers.</title>
+                  <author>Smith, Humphrey, d. 1663.</author>
+               </titleStmt>
+               <extent>[1], 2-8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1662]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication information suggested by Wing.</note>
+                  <note>Reproduction of original in: British Library, London, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  England --  Apologetic works.</term>
+               <term>Quakers --  Persecution --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151720:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 47 -->
+            <p>The Cauſe Of the long Afflicted, And Sore OPPRESSED, Sent forth (in breif) from <hi>WINCHESTER</hi> PRISON, Being a Copy of the Mittymus, whereby <hi>Humphrey Smith</hi> was again Com<g ref="char:EOLhyphen"/>mitted (into the place of his former long ſuffering, in the ſame ſtreight un<g ref="char:EOLhyphen"/>ſavory Priſon,) with his Anſwer (which was then ſent back) thereunto.</p>
+            <p>As likewiſe a ſhort Relation from the reſt of them called QVAKERS there.</p>
+            <p>Printed for the ſaid ſufferers.</p>
+            <pb facs="tcp:151720:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 48 -->
+            <pb facs="tcp:151720:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 48 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="writ_of_mittimus">
+            <pb n="2" facs="tcp:151720:3"/>
+            <!-- PDF PAGE 49 -->
+            <head>The Mittymus.</head>
+            <opener>
+               <dateline>Southton.</dateline>
+               <salute>To the Keeper of his Majeſtys Goale at <hi>Winton,</hi> or to his ſufficient Deputy, Greeting.</salute>
+            </opener>
+            <p>
+               <hi>YOu ſhall herewithall receive the body of</hi> Humphrey Smith, <hi>who was taken at unlawful Meetings at</hi> Alton, <hi>being a Ringleader, and one of the cheif of the</hi> Quakers, <hi>who traveleth the Country to ſeduce the people, and diſturb his Majeſties peace, contrary to the</hi> Law <hi>in that be<g ref="char:EOLhyphen"/>half made and provided. Theſe are therefore, in his Majeſties Name, to will and require you forthwith, that you receive the body of him the ſaid</hi> Humphrey Smith, <hi>into your Cuſtody, and him to detaine in your ſaid Goale, until he ſhall be delivered from thence by due order of Law. Whereof faile you not at your perril,</hi>
+            </p>
+            <closer>
+               <dateline>Given under our hands and Seals at <hi>Alton</hi> 
+                  <date>
+                     <hi>the</hi> 14th. day of <hi>October,</hi> in the thirteenth year of his Majeſtys Reigne. Anno 1661.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>John Norton.</item>
+                     <item>Humphrey Bennit.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="response">
+            <head>The Anſwer.</head>
+            <p>THe Jews (who denyed him that ſaid I am the Light) laid hands on <hi>Paul, Cryiug out help men of Iſrael, this is the man that teach<g ref="char:EOLhyphen"/>eth every where againſt the Law,</hi> Acts 21.28. And the Jewiſh Chri<g ref="char:EOLhyphen"/>ſtans (who denyed the Light) laid hands on <hi>Humphrey Smith,</hi> and in the Mittymus ſay he was at an unlawful Meeting; And ſo theſe called Chriſtians ſay our Meetings are unlawful, or againſt the <hi>Law.</hi> And <hi>juſt ſo it was ſaid of</hi> Paul <hi>that his teaching was againſt the Law.</hi> Again <hi>Iobn Norton</hi> and <hi>Humphrey Bennit</hi> ſay that <hi>Humphrey Smith</hi> was a Ringleader; Likewiſe <hi>Turtullous ſaid that</hi> Paul <hi>was a Ring<g ref="char:EOLhyphen"/>leader,</hi> Acts 24. Again <hi>Humphrey Smith</hi> is accuſed for one of the cheif of the Quakers, and for travelling the Countrey to ſeduce the people. <hi>And in the ſame manner</hi> Paul <hi>was accuſed for a mover of ſedi<g ref="char:EOLhyphen"/>tion among all the Iews throughout the World, Acts</hi> 24.5. (and if ſo, then <hi>Paul</hi> was a greater Traveller then <hi>Humphrey Smith</hi>) &amp; as <hi>Hum<g ref="char:EOLhyphen"/>phrey Smith</hi> is here accuſed for ſeducing the people. <hi>So Paul was ac<g ref="char:EOLhyphen"/>cuſed for ſetting forth of ſtrange Gods, and for preaching new Doctrine
+<pb n="3" facs="tcp:151720:3"/>
+                  <!-- PDF PAGE 49 -->Acts</hi> 17.18. And again <hi>Haman accuſed the Lords people, that they kept not the</hi> Kings Laws. And theſe men accuſe us that we di<g ref="char:EOLhyphen"/>ſturb the peace, contrary to the <hi>Kings Laws.</hi> And the <hi>Rulers accuſed</hi> Paul <hi>for teaching things that were not Lawful.</hi> And theſe accuſe <hi>Humphrey Smith</hi> that he did that which was contrary to the <hi>Law,</hi> which they ſay is made and provided, which is as much as if they had ſaid, <hi>We have a Law,</hi> juſt like their Fathers who (Crucified Chriſt and) ſaid <hi>We have a Law and by our Law he ought to dye;</hi> And ſo theſe who have envy (which is murther) in their hearts ſay, we have a <hi>Law</hi> made and provided, and by the ſorce thereof <hi>Humphrey Smith</hi> (who is a member of Chriſt) muſt be Impriſoned (his body, [mark] not his Soul, then his Soul may be at liberty,) <hi>And them Ma<g ref="char:EOLhyphen"/>giſtrates caſt</hi> Paul <hi>into Priſon.</hi> And ſo theſe did by <hi>Humphrey Smith. And they charged the Goaler to keep</hi> Paul <hi>ſafely, Acts</hi> 16.21. And theſe Charge or require the Goaler in no leſs then his <hi>Majeſties</hi> name and at his own <hi>Perrel</hi> to receive and detaine the body of <hi>Hum<g ref="char:EOLhyphen"/>phrey Smith</hi> in his ſaid Goale, until he ſhall be delivered by due Or<g ref="char:EOLhyphen"/>der of <hi>Law.</hi>
+            </p>
+            <p>
+               <note place="margin">But now they have above a year together, contrary to Law, deprived me, of the benefit of all their Law and Liberty.</note>And in this their acting and writing, they themſelves have compared <hi>Humphrey Smith</hi> with <hi>Paul</hi> (and others of Gods people) <hi>And themſelves with</hi> Pauls <hi>Perſecutors,</hi> and with o<g ref="char:EOLhyphen"/>ther ſuch Rulers, who accuſed and impriſon Gods people formerly, who pretended a <hi>Law</hi> then, as theſe do now: And ſo here is ſtill much Law ſpoken of; But little <hi>Mercy,</hi> and leſs Juſtice or equity ei<g ref="char:EOLhyphen"/>ther amongſt them or theſe: And thus we are dayly brought before Magiſtrates, and caſt into Priſon, where the Members of Chriſt have been ſick, and ſome have dyed, to whom theſe called Chriſtian Magiſtrates never viſited: And thus in pretence of a <hi>Law</hi> doth Chriſts members ſuffer by theſe now, as he himſelf did by thoſe then, who ſaid <hi>We have a</hi> Law, <hi>and by our</hi> Law <hi>he ought to dye.</hi>
+            </p>
+            <p>And hereby all people may plainly perceive (who are not wilfully blind that here is not one thing Charged againſt <hi>Humphrey Smith,</hi> but what hath been Charged againſt Gods ſervants in the d<gap reason="illegible" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ys of old, and all perſons may eaſily ſee that <hi>Humphrey Smith</hi> is not any otherwiſe accuſed then the members of Chriſt hath already been; and all the Rulers themſelves may hereby know, that in all this, there is not one word, or particular thing by which <hi>Humphrey Smith</hi> doth now ſuffer, but what the Lords dear people have already ſuf<g ref="char:EOLhyphen"/>fered,
+<pb n="3" facs="tcp:151720:4"/>
+               <!-- PDF PAGE 50 -->by and under, and that by the Magiſtrates, or the Rulers of the people, by whom likewiſe now <hi>Humphrey Smith</hi> do ſuffer, and ſo he is hereby, and therein the more declared to be one of Gods ſervants, and they by whom he thus ſuffers, are manifed the more, to be of the ſame Generation, who ſtill accuſe and impriſon, and by cruel hands cauſe Gods ſervants to ſuffer; but Chriſt ha<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h promi<g ref="char:EOLhyphen"/>ſed (whoſe word ſhall ſtand for ever) that theſe things ſhould turne to us for a teſtimony <hi>Luke</hi> 21.17. And this may and doth this day teſtify to the World (and for us againſt the world) that we are of God, and that <hi>Humphrey Smith</hi> is his ſervant, and that he doth this day ſuffer by the Rulers, under the ſame accuſation, and no other, and for the ſame truth, and ſo in the ſame cauſe, as Gods people of old did and not for any thing elſe nor any other thing pretented againſt him, nor in the leaſt laid to his charge.</p>
+            <p>And if this will in no wiſe convince theſe Rulers of their evil here<g ref="char:EOLhyphen"/>in nor other people, of the innocency of my preſent ſufferings. Then let them all take heed leaſt the God of this World hath wholly blin<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ed them, and hardned their hearts therein, and chained them up in obſcurity and bound them under the powers of darkneſs, and ſo far <hi>Seduced</hi> them already, that they are become paſt Senſe, Sight, or Feeling, and then no more but a moſt fearful looking for the Righ<g ref="char:EOLhyphen"/>teous Judgments, and indignation of the Almighty, which will one day devour, and none ſhall deliver.</p>
+            <p>And then ſhall they all know both Rulers and people that I am Gods ſervant, this day in Bonds for the Teſtimony of Jeſus (againſt the cruelty of men (in cloſe Priſon at <hi>Wincheſter</hi> being known to the wicked world by the name.</p>
+            <closer>
+               <signed>Humphrey Smith.</signed>
+            </closer>
+            <postscript>
+               <p>This was in ſhort time ſent back to them that committed me.</p>
+            </postscript>
+         </div>
+         <div type="document">
+            <floatingText type="letter" xml:lang="eng" subtype="appeal">
+               <body>
+                  <head>A Coppy of a Paper ſent to the late intended (but Ad<g ref="char:EOLhyphen"/>journed) Seſſions.</head>
+                  <p>VVE are men that do fear the Lord, and do alſo truely deſire peace with &amp; amongſt all men, amongſt whom we have like wiſe be haved our ſelves in peace and quietneſs, labouring with our
+<pb n="5" facs="tcp:151720:4"/>
+                     <!-- PDF PAGE 50 -->hands in the things that are honeſt, whereby to provide for our ſelves and families, continuing alſo in carefulneſs therein, that though we ſuffer in body and eſtate, that neither we nor them, might be chargeable to any, neither have we wilfully provoked the Officers, and Rulers againſt us, but in humility in that we dare not but obey the Lord that made us, in waiting upon him, for the which only and for no other cauſe, on our parts, we have already ſuffered be ore this impriſonment ſo much cruelty and inhuman uſage, that ſeveral ſheets of Paper might be filled therewith, though it would not be eaſie to be beleived, that <hi>Engliſh</hi>-men ſhould ſo unmercifully be a<g ref="char:EOLhyphen"/>buſed, by Souldiers, and other men, of their own Nation, as hath been dayly inflicted upon us in the Town of <hi>Portſmouth,</hi> the place of o<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t aboad and habitations, where for the ſpace of one year and half, few firſt days therein but we were by the rudeſt Souldiers (that they could chuſe for the purpoſe, and ſuch like Officers, either haled out of our Meetings, before the Law was made as againſt it) or beat forth with much violence, or thruſt or beat with Muskets along the ſtreets, or punched, or knocked with the great ends of Muskets, and ſo with violence drove forth at the Gates, from our own Habi<g ref="char:EOLhyphen"/>tations, and then were hindred from coming in again to our imploy<g ref="char:EOLhyphen"/>ments, or moſt if not all theſe things, were dayly inflicted upon us with many more crueller beatings, and bruſings of our bodys then is herein written, and our goods have been ſpoyled, and ſome carryed away, and our windows battered down, even after we were beat and turned out as aforeſaid, and ſuch firſt days as we eſcaped theſe things we were ſhut up together in our own houſe, and Armed men ſet on every ſide to keep us in both men and women, in a moſt evil and un<g ref="char:EOLhyphen"/>ſeemly manner, and food denyed to be brought into us, and ſome<g ref="char:EOLhyphen"/>times our food that was ſent us taken away by the Souldiers, and other times we were ſome of us kept in ſeveral naſty holes, which are ſo bad, that moſt people do ſeem it a hard thing for the worſt Fellon or Offender, to be kept a few days, where we were conſtrain<g ref="char:EOLhyphen"/>ed to by ſeveral weeks, having alſo both freinds, and our own wives, and Relations, yea and food it ſelf and other needful things then kept alſo from us, and in Fellons holes the waves of the Sea have ſo beat in on one of us in Winter ſeaſon, that he have ſtood in water up to the Ancles, for the which things the Lord God hath and will viſit them that were the Actors thereof.</p>
+                  <pb n="6" facs="tcp:151720:5"/>
+                  <!-- PDF PAGE 51 -->
+                  <p>And when we had for the ſpace of one year and half, in much pa<g ref="char:EOLhyphen"/>tience ſuffered many ſuch things as aforeſaid; <note>PLACE="marg" s Capt. <hi>egg</hi> Capt. <hi>
+                           <gap reason="illegible: page cropped" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ol<gap reason="illegible" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>n,</hi> and Capt. <hi>Cor<g ref="char:EOLhyphen"/>
+                           <gap reason="illegible: page cropped" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>elious</hi> may <gap reason="illegible: page cropped" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e Exam<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: page cropped" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>es.</note> then did the Rulers of the Nation add affliction to our long grieved ſouls, by making a Law that not above five might depart from their habitations, and aſſemble together under pretence of Worſhip; the which though our Meetings were not in pretence, but really intended, and abſo<g ref="char:EOLhyphen"/>lutely for the Worſhip of God, yea notwithſtanding, though we were not this time (for the which we yet ſuffer) the number of five that departed from our habitations, and ſo not tranſgreſſors of that Law, as we made it appear unto the Mayor and Rulers that com<g ref="char:EOLhyphen"/>mitted us. Neither could they themſelves affirme and prove that we had therein tranſgreſſed that law; yet notwithſtanding they impo<g ref="char:EOLhyphen"/>ſed the uttermoſt penalty upon us, which in the ſaid law is mentio<g ref="char:EOLhyphen"/>ned againſt them that tranſgreſs it, and ſo kept us full three months in Priſon in that town, and three weeks moreover then the three months. And then in our <hi>Mittimus</hi> they did not ſo much as deal juſtly with us, but writ therein, that we were lately taken at a mee<g ref="char:EOLhyphen"/>ting as though it had been very lately indeed, and thereby have ſought to conceale the long Impriſonment we had then ſuffered for the ſame meeting therein ſignifyed, and concerning which we have alſo ſuffered nine weeks more in this Priſon of <hi>Wincheſter</hi> this 13th. of the 11th. month 62.</p>
+                  <p>And theſe our hard and unreaſonable ſufferings. and grievous abuſes, doth even cauſe a cry for mercy, and may claim compaſſion in equity, as well as Juſtice from you, who in Juſtice ought to ſhew mercy, in releiving the oppreſſed: who haveing ſuffered all theſe things onely upon the account of ſome difference in Opinion, in mat<g ref="char:EOLhyphen"/>ters of Religion, or matter in us of Conſcience to God, wherein al<g ref="char:EOLhyphen"/>ſo the Kings late Declaration offereth us relief, the benefit thereof we ſhall gladly receive; but if otherwiſe, then we ſay the will of the Lord be done, whom we dare not but follow though it ſhould be to the loſs of all.</p>
+                  <closer>
+                     <signed>
+                        <list>
+                           <item>Iohn Auſtin,</item>
+                           <item>Ionas Goff,</item>
+                           <item>Wil. Bucklan.</item>
+                           <item>Tho. Cozens.</item>
+                           <item>Nic. Cumplin,</item>
+                           <item>Wil. Iennings.</item>
+                        </list>
+                     </signed>
+                  </closer>
+                  <postscript>
+                     <list>
+                        <item>
+                           <hi>Solomon Nun</hi> alſo a Priſoner eleven weeks for not paying four ſhillings for being abſent 4 firſt dayes from their Church at <hi>Fareham</hi> which in conſcience he could not pay, and ſo he is kept from his Maſters buſineſs, being a young Apprentice lad.</item>
+                        <item>
+                           <hi>Iohn Biſhop</hi> alſo a Priſoner nine weeks, being taken out of his
+<pb n="7" facs="tcp:151720:5"/>
+                           <!-- PDF PAGE 51 -->own houſe, from the which he was not departed, neither were ther then found with him any more men but two.</item>
+                        <item>
+                           <hi>Humphery Smith</hi> a Priſoner one year and three months, and ne<g ref="char:EOLunhyphen"/>ver called at Size or Seſſions, nor ſuffered to come to any of the Rulers in the County to lay before them the true ſtate of his Caſe.</item>
+                     </list>
+                  </postscript>
+               </body>
+            </floatingText>
+            <p>And now ſeeing the hardneſs of the hearts of the Rulers is ſuch, that though a coppy of this foregoing paper was ſent unto them, at the time of their late appointed Seſſions, and they not releaſe the the ſaid ſufferers (though they releaſed ſeveral Baptiſts and others that have not ſuffered nigh ſo much) nor commiſerate their long and ſore ſuffering cauſe, being ſome of them but poor men, and ſee<g ref="char:EOLhyphen"/>ing the ſaid Paper, was turned again, and ſo the cauſe of the long op<g ref="char:EOLhyphen"/>preſſed turned aſide.</p>
+            <p>
+               <hi>Therefore is this publiſhed (with the other) that both Rulers and people may hear and ſee the long and many afflictions of the harmeleſs.</hi>
+            </p>
+            <p>And now as touching four coates that in cold Winter weather were ſtript off us, four ſince we came to this Priſon, and openly car<g ref="char:EOLhyphen"/>ryed forth (by one whoſe name we forbear to write) and the money for them drunk preſently in ſtrong beere; concerning the which, al<g ref="char:EOLhyphen"/>though we mentioned not a word amongſt the reſt of our ſufferings, in the foregoing Paper. And yet ſeeing it is ſo, that juſt thereupon we were curbed and checked, and friends kept out from us, and bit<g ref="char:EOLhyphen"/>ter words uſed at them that were let in, (though the Goaler had pro<g ref="char:EOLhyphen"/>fit by them) and that even by the Jaylers wife, (ſhe haveing ſlighted Gods love, and ſo now hath little pitty for us) and this being alſo done at the ſame time, when the Kings Declaration was come forth, which is ſo largely tending to our Liberty. And that the ſaid Goa<g ref="char:EOLhyphen"/>lers wife, and himſelf (if they own that action) may know that it was out of forbearanee of love, and not of ſlaviſh fear of any, that we mentioned not theſe our Coats in the ſaid Paper.</p>
+            <p>Therefore are theſe few lines pertaining to the matter, now ad<g ref="char:EOLhyphen"/>ded to the reſt of the ſufferings of us <hi>I.A.T.C.I.G.N.C.</hi> this 14. day of the 11. month 62.</p>
+            <p>
+               <hi>And the cauſe, or the reaſons wherefore the Copy of the</hi> Mittimus <hi>with the anſwer of me,</hi> H.S. <hi>is herein made publick, are theſe.</hi>
+            </p>
+            <p>
+               <list>
+                  <item>Firſt becauſe <hi>Iohn Norton</hi> and <hi>Humphery Bennit,</hi> have not onely thus committed me upon no other account, but for being ſuch a
+<pb n="8" facs="tcp:151720:6"/>
+                     <!-- PDF PAGE 52 -->man as Gods ſervants were in the days of old, and for doing no o<g ref="char:EOLhyphen"/>ther thing, but what was (though ſomtimes unjuſtly) charged a<g ref="char:EOLhyphen"/>gainſt them, and alſo before this late Law was made (intentionally) againſt meeting.</item>
+                  <item>Secondly, becauſe they have kept me cloſe Priſo<g ref="char:EOLhyphen"/>ner one year three Months and upward, and that only upon this ac<g ref="char:EOLhyphen"/>count.</item>
+                  <item>Thirdly, becauſe I have been all this time deprived even of that benefit of the Law in this Land which Theeves and murderers have, being not all this time called at Size or Seſſions.</item>
+                  <item>Fourthly, becauſe the ſaid <hi>Iohn Norton</hi> refuſed to let me have my liberty for a little ſeaſon when a friend came to ſeek it of him, after I had laine here almoſt a year.</item>
+                  <item>Fiftly, Becauſe nothing of evil is proved or brought in againſt me, nor any Law known by which they thus keep me in long Bondage, though wrongfully in the Mitty mus they have pretended a Law.</item>
+                  <item>Sixtly, Becauſe I am more hardly dealt with (in my impriſonment) then the High-way men that break out of Pri<g ref="char:EOLhyphen"/>ſon or any other offender here, by their order, for the keeping of freinds from coming in to viſit him that is one of the members of Chriſt in Priſon.</item>
+                  <item>Seventhly, Becauſe that by no means all this time I can be permitted once to paſs forth to any houſe in the Town, and ſeveral reaſons more wherein I am unreaſonable dealt with, all which having ſo long, and with much ſilence and patience undergone.</item>
+                  <item>Eightly, Becauſe all this and much more of their hard dealing, and my ſufferings is ſo little regarded by the ſaid <hi>Iohn Norton,</hi> and <hi>Humphrey Bennit</hi> and other Rulers, who ſome of them ſaid I might rot here.</item>
+               </list>
+            </p>
+            <p>Therefore I ſay thus much is at preſent publiſhed, and that other tender hearted people, and the meekeſt among the <hi>Rulers,</hi> may both read and conſider the cauſe of the oppreſſed, and alſo the long ſuffe<g ref="char:EOLhyphen"/>rings of <hi>H. S.</hi>
+            </p>
+            <p>
+               <hi>The time cometh, that whoſoever killeth you will think that he doth God ſervice,</hi> John 16.2.</p>
+            <p>
+               <hi>If the world hate you, ye know that it hated me before it hated you,</hi> John 15.18.</p>
+            <p>But in the great day when it ſhall be ſaid, <hi>Come ye bleſſed, and go ye curſed,</hi> the things then laid to their charge will be theſe, <hi>I was hungry, thirſty, a ſtranger, naked, ſick, and in Priſon, and ye viſited me not</hi> anſwer, when ſaw we thee ſo, reply, <hi>In as much as ye did it not un<g ref="char:EOLhyphen"/>to one of the leaſt of theſe, ye did it not to me,</hi> according to <hi>Matt.</hi> 25.41.42, 43, 44, 45, 46.</p>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:151720:6"/>
+            <!-- PDF PAGE 52 -->
+         </div>
+      </body>
+   </text>
+</TEI>
